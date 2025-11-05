@@ -1,0 +1,6 @@
+{
+"project_name": "pRF_am",
+"subjects": ["sub-001", "sub-002", "sub-003"], 
+"sessions": ["ses-prfaniso","ses-prfoccl","ses-prfstrab","ses-rs2","ses-rs3","ses-rsprf"],
+"data_dir": "/scratch/mszinte/data/"
+}
